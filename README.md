@@ -1,4 +1,4 @@
-# Olá, eu sou Kelven Per!
+# Olá, eu sou Kelven Silva!
 
 👋 Bem-vindo ao meu perfil do GitHub!
 
@@ -22,7 +22,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 Você pode me encontrar nas seguintes redes sociais:
 
-- [LinkedIn]([link-do-linkedin](https://www.linkedin.com/in/kelven-silva-83677414b/))
+- [LinkedIn]([https://www.linkedin.com/in/kelven-silva-83677414b/])
 - [Twitter](link-do-twitter)
 - [E-mail](mailto:kelvenpersilva@gmail.com)
 
