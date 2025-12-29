@@ -1,178 +1,58 @@
-# 👩🏻‍💻 Kelven Silva
-
-**`Desenvolvedor FullStack`**
-
-Meu nome é Kelven Pereira da Silva, tenho 31 anos e sou natural de Minas Gerais, residente em Uberlândia. Concluí o ensino médio com formação técnica em Informática, o que despertou desde cedo meu interesse pela área de tecnologia.
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Uninter, onde venho aprofundando meus conhecimentos em desenvolvimento de software e tecnologias voltadas ao mercado. Sou apaixonado por tecnologia e acredito no poder do compartilhamento de conhecimento.
-Por isso, criei um canal no YouTube onde divido aprendizados, experiências e conteúdos que contribuem para o crescimento de outros profissionais que também estão trilhando essa jornada na área da programação. "[Kelven Silva](https://www.youtube.com/@vidaemprogresso-m1j)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[devkelvensilva](https://www.instagram.com/devkelvensilva/)".
+# 👋 Olá, eu sou o Kelven Pereira da Silva
 
 <p align="left">
-    <a href="https://www.youtube.com/@vidaemprogresso-m1j?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@vidaemprogresso-m1j">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/KelvenPer?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KelvenPer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/KelvenPer?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KelvenPer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://img.shields.io/badge/Uberlândia-MG-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Back--End%20Developer-Java%20|%20Spring%20Boot-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Em%20transição%20de%20carreira-Para%20Tecnologia-success?style=flat-square" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📖 Sobre Mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="mySQL" 
-    title="mySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+Sou um apaixonado por tecnologia em transição de carreira. Natural de **Minas Gerais**, tenho **31 anos** e atualmente curso **Análise e Desenvolvimento de Sistemas** pela **Uninter**.
 
-<br/>
-<br/>
+Desde o ensino médio, quando finalizei um curso técnico em Informática, descobri minha afinidade com a área. Hoje, venho me especializando no **desenvolvimento Back-End**, com foco em **Java com Spring Boot**, **MySQL**, **Docker** e **Angular**.
 
-### 📊 Estatísticas
+Também possuo experiência com **Python** e bibliotecas para análise de dados como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**, além de já ter utilizado o **Power BI** para criar dashboards e apresentar resultados.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KelvenPer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+🎥 No meu tempo livre, compartilho conhecimento no meu canal do YouTube, onde falo sobre tecnologia, carreira e programação.  
+🔎 Sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos na prática!
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenPer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
+### 🛠️ Tecnologias & Ferramentas
+
+| Back-End      | Front-End        | Banco de Dados | Ferramentas          | Outros               |
+|---------------|------------------|----------------|----------------------|----------------------|
+| Java          | HTML             | MySQL          | Git & GitHub         | Power BI             |
+| Spring Boot   | CSS              | PostgreSQL     | Docker               | Metodologias Ágeis   |
+| Python        | JavaScript       |                | Trello, Kanban, Scrum| POO, UML             |
+| Kotlin        | Angular (básico) |                |                      | Tkinter              |
+
+---
+
+### 📊 Estatísticas & Atividade
+
+<div align="center">
+  <img src="https://github.com/KelvenPer/KelvenPer/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+  <br/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KelvenPer&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenPer&layout=compact&theme=github_dark" />
+</div>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="mailto:kelvenpersilva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kelven-silva-83677414b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@vidaemprogresso-m1j"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
+---
+
+> "O conhecimento só é válido quando compartilhado." — É nisso que eu acredito. Bora codar juntos?
